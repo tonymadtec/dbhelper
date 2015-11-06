@@ -368,5 +368,8 @@ namespace DBHelperNameSpace
         }
 
         #endregion
+
+        //--- test
+        public void test() { }
     }
 }
