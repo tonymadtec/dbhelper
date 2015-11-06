@@ -370,6 +370,9 @@ namespace DBHelperNameSpace
         #endregion
 
         //--- test
-        public void test() { }
+        public void test()
+        {
+
+        }
     }
 }
